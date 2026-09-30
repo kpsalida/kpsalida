@@ -8,7 +8,7 @@ Data Scientist · Machine Learning, GenAI and Power BI · Athens
 ### Projects
 - [RAG Chatbot on WebMD Reviews](https://github.com/kpsalida/WebMD-Drug-Reviews-RAG-Chatbot) — RAG, FAISS, Hugging Face deployment
 - [PPC Energy Price Forecasting](https://github.com/kpsalida/ppc-forecasting) — LSTM/GRU, 33% lower error
-- [Telco Customer Spend Prediction](https://github.com/kpsalida/Telco-Churn-SpendingPredition-MachineLearning) — regression, SHAP
+- [Telco Customer Spend Prediction](https://github.com/kpsalida/Telco-Churn-SpendingPrediction-MachineLearning) — regression, SHAP
 - [Hospital Finance Dashboards](https://github.com/kpsalida/Hospital-Discharges-Financial-Policies-PowerBI-Dashboards) — K-Means, Power BI
 - [Sales Performance Analytics](https://github.com/kpsalida/PowerBI-sales-performance-analytics) — Power BI, DAX, Power Query
 - [Extreme Weather Alerting Pipeline](https://github.com/kpsalida/Extreme_Weather_Conditions_and_Alerting) — Airflow, Docker, SQL
